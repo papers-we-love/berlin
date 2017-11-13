@@ -8,7 +8,7 @@ The Berlin chapter of Papers We Love, like all Papers We Love chapters, is a com
 
 ## Upcoming Meetings
 
-Please visit our [Meetup](https://www.meetup.com/Papers-We-Love-Berlin/) page to see information about up-coming meetups and topics.
+Please visit our [Meetup](https://www.meetup.com/Papers-We-Love-Berlin/) page to see information about upcoming meetups, their locations, and the papers to be discussed.
 
 ### Contact
 
