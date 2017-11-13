@@ -13,7 +13,7 @@ Need help?
 
 If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
-- **Haskell Pointer** [glaukommatos@icloud.com](mailto:glaukommatos@icloud.com)
+- **Haskell Pointer** [@glaukommatos](https://www.twitter.com/glaukommatos) (or via [e-mail](mailto:glaukommatos@icloud.com))
 - **Igor Wiedler** [@igorwhilefalse](https://www.twitter.com/igorwhilefalse)
 - **Michael Kleen** [@mkleen](https://www.twitter.com/mkleen)
 
